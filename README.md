@@ -2,7 +2,7 @@
 This repository contains the official implementation of **CP-IFA**, a novel unsupervised framework for discovering causal networks from observational data. By combining a generative Variational Autoencoder (VAE) architecture with counterfactual perturbation and information flow asymmetry, this method can accurately infer both the causal skeleton and the explicit causal directions.
 
 ## Framework Overview
-
+<img src="fig 1.png" width="600">
 
 CP-IFA performs causal discovery in two progressive stages:
 
